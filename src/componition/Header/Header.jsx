@@ -1,6 +1,6 @@
 import React from "react";
-import '../Header/Header.css'
-import logo from "../../assets/images/wakanda.png";
+import "../Header/Header.css";
+import logo from "/images/wakanda.png";
 function Header() {
   return (
     <header id="main-header" className="py-3 fs-5">
