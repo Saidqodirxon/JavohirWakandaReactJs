@@ -1,0 +1,23 @@
+section#showcase {
+  background-color: #fff;
+  padding-top: 3rem;
+}
+section img {
+width: 450px;
+}
+section#showcase .flex {
+  align-items: center;
+}
+
+section#showcase h1 {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+section#showcase p {
+  width: 400px;
+  line-height: 1.6;
+  margin: 2rem 0;
+  font-size: 1rem;
+  font-weight: 400;
+}

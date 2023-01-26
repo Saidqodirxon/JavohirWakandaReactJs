@@ -1,0 +1,13 @@
+section#icons {
+  background-color: #fff;
+  padding: 5rem 0 !important;
+  display: flex;
+}
+section#icons img {
+width: 159.47px;
+height: 48px;
+}
+section#icons .flex {
+  display:flex;
+  justify-content: space-between !important;
+}
